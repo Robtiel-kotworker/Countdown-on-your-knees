@@ -1,0 +1,10 @@
+name = "countdown-on-your-knees"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+
+[[kv_namespaces]]
+binding = "COUNTDOWNS"
+id = "1adbfe7a153d4ba9a4c8d25323c9c3b8"
+
+[observability]
+enabled = true
